@@ -9,4 +9,5 @@ eureka:
       defaultZone: http://192.168.166.36:8761/eureka
 env:
   dev
-foo: foo version 3
+foo: 
+  foo version 3
